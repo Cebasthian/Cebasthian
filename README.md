@@ -1,4 +1,4 @@
-print("Hello world")
+echo "I don't know what I'm doing :)"
 
 <!---
 Cebasthian/Cebasthian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
